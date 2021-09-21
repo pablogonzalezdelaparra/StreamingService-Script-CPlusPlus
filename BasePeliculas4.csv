@@ -1,0 +1,39 @@
+ID;Nombre Pelicula/Serie;Duración;Género;Calificación;Fecha Estreno;Nombre Episodio;ID Episodio;Temporada;Num Episodio
+tt1480055;Game of Thrones;57;Action, Adventure, Drama, Fantasy, Romance;9;4/17/2011;Winter Is Coming;tt1253648;1;1
+tt0107290;Jurassic Park;127;Acción, Aventura, Ciencia Ficción y Suspenso;8.1;6/11/1993;;;;
+tt0944947;Game of Thrones;57;Action, Adventure, Drama, Fantasy, Romance;8.8;2/4/2011;The Kingsroad;tt1668746;1;2
+tt0944947;Game of Thrones;57;Action, Adventure, Drama, Fantasy, Romance;8.7;1/5/2011;"Lord Snow""";tt1829962;1;3
+tt0944947;Game of Thrones;57;Action, Adventure, Drama, Fantasy, Romance;8.8;8/5/2011;Cripples, Bastards, and Broken Things;tt1829963;1;4
+tt0944947;Game of Thrones;57;Action, Adventure, Drama, Fantasy, Romance;9.1;12/5/2011;"""The Wolf and the Lion";tt1829964;1;5
+tt0944947;Game of Thrones;57;Action, Adventure, Drama, Fantasy, Romance;9.2;5/22/2011;A Golden Crown;tt1837862;1;6
+tt0944947;Game of Thrones;57;Action, Adventure, Drama, Fantasy, Romance;9.2;5/29/2011;You Win or You Die;tt1837863;1;7
+tt0944947;Game of Thrones;57;Action, Adventure, Drama, Fantasy, Romance;9;6/5/2011;The Pointy End;tt1837864;1;2
+tt0944947;Game of Thrones;57;Action, Adventure, Drama, Fantasy, Romance;9.6;6/12/2011;Baelor;tt1851398;1;9
+tt0796366;Star Trek;127;Action, Adventure, Sci-Fi;7.9;5/8/2009;;;;
+tt0120762;Mulan;88;Animation, Adventure, Family, Fantasy, Musical, War;7.6;6/19/1998;;;;
+tt0120131;The Lion King 2: Simba's Pride;81;Animation, Adventure, Drama, Family, Musical, Romance;6.5;10/27/1998;;;;
+tt0078346;Superman;143;Action, Adventure, Drama, Sci-Fi;7.3;12/15/1978;;;;
+tt0096895;Batman;126;Action, Adventure;7.5;6/23/1989;;;;
+tt0848228;The Avengers;143;Action, Adventure, Sci-Fi;8;5/4/2012;;;;
+tt0415778;End Game;93;Action, Crime, Drama, Mystery, Thriller;5.1;7/21/2006;;;;
+tt0108778;Friends;22;Comedy, Romance;8.4;9/22/1994;The One Where Monica Gets a RoommateT;tt0583459;1;1
+tt0108778;Friends;22;Comedy, Romance;8.1;9/29/1994;The One with the Sonogram at the End;tt0583647;1;2
+tt0108778;Friends;22;Comedy, Romance;8.2;10/6/1994;The One with the Thumb;tt0583653;1;3
+tt1853728;Django Unchained;165;Drama, Western;8.4;12/25/2012;;;;
+tt1442437;Modern Family;22;Comedy, Drama, Romance;8.4;9/23/2009;Piloto;tt1444504;1;1
+tt1638002;Love Rosie ;102;Comedia, Romance;7.2;10/22/2014;;;;
+tt0088763;Back to the Future;116;Adventure,Comedy,Sci-Fi;8.5/10;7/3/1985;;;;
+ tt1485796;The Greatest Showman;105;Biografía, drama, musical;7.6;12/20/2017;;;;
+tt4116284;The Lego Batman Movie;104;Animación, Acción, Comedia, Familia;7.3;2/10/2017;;;;
+tt1442437;Modern Family;22;Comedy, Drama, Romance;8.2;9/23/2009;The Bicycle Thief;tt1492032;1;2
+tt1442437;Modern Family;22;Comedy, Drama, Romance;8;10/7/2009;Come Fly with Me;tt1520618;1;3
+tt2935510;Ad Astra;123;Adventure, Drama, Mystery, Sci-Fi, Thriller;6.6;9/20/2019;;;;
+tt8579674;1917;119;Drama, War;8.3;1/10/2020;;;;
+tt2584384;Jojo Rabbit;108;Comedy, Drama, War;7.9;11/8/2019;;;;
+tt0903624;The Hobbit: An Unexpected Journey;169;Adventure, Family, Fantasy;7.8;12/14/2012;;;;
+tt2661044;The 100;43;Drama, Mystery, Sci-Fi;7.5;3/19/2014;Pilot;tt2912494;1;1
+tt2661044;The 100;43;Drama, Mystery, Sci-Fi;7.5;3/26/2014;Earth Skills;tt3143980;1;2
+tt2661044;The 100;43;Drama, Mystery, Sci-Fi;7.9;4/2/2014;Earth Kills;tt3143986;1;3
+tt0096697;The Simpsons;22;Animation, Comedy;7.7;1/14/1990;Bart the Genius;tt0756593;1;1
+tt0096697;The Simpsons;22;Animation, Comedy;7.7;1/28/1990;There's No Disgrace Like Home;tt0756399;1;3
+tt0096697;The Simpsons;22;Animation, Comedy;7.4;1/21/1990;Homer's Odyssey;tt0701124;1;2
